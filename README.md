@@ -1,0 +1,3 @@
+This is a GUI program which is capable of performing elementary level mathematic tasks
+
+Beware of the heavy code inside.....
